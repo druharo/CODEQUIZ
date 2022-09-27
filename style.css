@@ -1,8 +1,28 @@
 button:hover {
-    color: blueviolet;
+    color: white;
+    background-color: purple;
 }
-.col {
-    color:blueviolet;
-    font-weight: bold;
 
+/* color as per mock-up */
+
+.col2 {
+    color:purple;
+    font-weight: bold;
+}
+/* button color on hover */
+.btn-primary:hover {
+    background-color: purple;
+}
+/* Aligning as per mockup */
+.btn-primary {
+    font-weight: bold;
+    text-align: left;
+}
+.container{
+    box-sizing: border-box;
+    padding: 0 250px;
+}
+/* timer to black clor */
+.float-end{
+    color: black;
 }
